@@ -8,9 +8,6 @@
 # dependencies
 /node_modules
 
-#images
-/server/images
-
 # IDEs and editors
 /.idea
 .project
